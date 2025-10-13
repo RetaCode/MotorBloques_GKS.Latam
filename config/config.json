@@ -1,0 +1,8 @@
+{
+  "AnchoArea": 1000,
+  "AltoArea": 500,
+  "AnchoBloque": 50,
+  "AltoBloque": 20,
+  "Junta": 2,
+  "Tolerancia": 1
+}

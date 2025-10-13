@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\Models\Bloque.cs" />
+    <Compile Include="..\Models\Configuracion.cs" />
+    <Compile Include="..\Models\Resultado.cs" />
+  </ItemGroup>
+</Project>

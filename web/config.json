@@ -1,0 +1,6 @@
+{
+  "tamanos": [30, 40, 50],
+  "anchoJunta": 1,
+  "offset": 0.5,
+  "tolerancia": 1
+}
