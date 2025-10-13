@@ -2,18 +2,37 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Demo Motor de Bloques GKS</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MotorBloques GKS - Demo Visual</title>
+    <style>
+        body { font-family: sans-serif; margin: 20px; background-color: #f4f4f9; }
+        h1 { color: #333; }
+        #app { border: 1px solid #ccc; background-color: white; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); }
+        .info { margin-bottom: 20px; padding: 10px; background-color: #e0f7fa; border-left: 5px solid #00bcd4; }
+        .block-legend { display: flex; gap: 15px; margin-top: 10px; }
+        .legend-item { display: flex; align-items: center; }
+        .color-box { width: 20px; height: 20px; border: 1px solid #666; margin-right: 5px; }
+    </style>
 </head>
 <body>
-    <h1>Simulador de Muros con Bloques GKS</h1>
-    <div id="info"></div>
-    <div style="margin: 1em 0;">
-        <label for="fileInput"><b>Subir output.json:</b></label>
-        <input type="file" id="fileInput" accept="application/json">
+
+    <h1>🧱 MotorBloques GKS - Disposición 2D</h1>
+    <div class="info">
+        <p>Muro generado con las reglas de GKS: Múltiples tamaños de bloque, juntas y mata-junta (offset). **Regla de No-Corte aplicada.**</p>
+        <div class="block-legend">
+            <div class="legend-item"><div class="color-box" style="background-color: #FFC0CB;"></div>300 mm</div>
+            <div class="legend-item"><div class="color-box" style="background-color: #ADD8E6;"></div>400 mm</div>
+            <div class="legend-item"><div class="color-box" style="background-color: #90EE90;"></div>500 mm</div>
+        </div>
     </div>
-    <svg id="muro" width="900" height="500"></svg>
-    <script src="motor.js"></script>
-    <script src="upload.js"></script>
+    
+    <svg id="app" width="1000" height="500"></svg>
+
+    <script src="./js/config.js"></script>
+
+    <script src="./js/MotorBloques.js"></script>
+
+    <script src="./js/Visualizador.js"></script>
+
 </body>
 </html>
