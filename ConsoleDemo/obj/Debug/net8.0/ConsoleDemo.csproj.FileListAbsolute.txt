@@ -16,3 +16,8 @@ C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\ConsoleDemo\obj\Debug\
 C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\ConsoleDemo\obj\Debug\net8.0\ConsoleDemo.pdb
 C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\ConsoleDemo\obj\Debug\net8.0\ConsoleDemo.genruntimeconfig.cache
 C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\ConsoleDemo\obj\Debug\net8.0\ref\ConsoleDemo.dll
+C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\ConsoleDemo\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\ConsoleDemo\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\ConsoleDemo\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\ConsoleDemo\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\ConsoleDemo\obj\Debug\net8.0\ConsoleDemo.sourcelink.json

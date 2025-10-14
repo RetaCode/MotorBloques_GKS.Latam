@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RkED950Qosc=",
+  "dgSpecHash": "ardyoHRL5hY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Esteban Retana\\Desktop\\MotorBloques\\MotorBloques\\ConsoleDemo\\ConsoleDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Esteban Retana\\.nuget\\packages\\system.io.pipelines\\9.0.9\\system.io.pipelines.9.0.9.nupkg.sha512",
+    "C:\\Users\\Esteban Retana\\.nuget\\packages\\system.text.encodings.web\\9.0.9\\system.text.encodings.web.9.0.9.nupkg.sha512",
+    "C:\\Users\\Esteban Retana\\.nuget\\packages\\system.text.json\\9.0.9\\system.text.json.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,11 @@
+{
+  "AnchoArea": 1000,
+  "AltoArea": 500,
+  "Junta": 2,
+  "Tolerancia": 1,
+  "TamanosBloque": [300, 400, 500],
+  "OffsetMataJunta": 150,
+  "AltoBloque": 98,
+  "GrosorParedFinal": 150,
+  "UnidadEntrada": "mm"
+}

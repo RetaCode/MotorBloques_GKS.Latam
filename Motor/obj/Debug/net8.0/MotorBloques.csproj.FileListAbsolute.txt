@@ -9,3 +9,4 @@ C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\Motor\obj\Debug\net8.0
 C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\Motor\obj\Debug\net8.0\refint\MotorBloques.dll
 C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\Motor\obj\Debug\net8.0\MotorBloques.pdb
 C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\Motor\obj\Debug\net8.0\ref\MotorBloques.dll
+C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\Motor\obj\Debug\net8.0\MotorBloques.sourcelink.json

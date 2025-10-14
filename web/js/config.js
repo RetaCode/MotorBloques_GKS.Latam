@@ -1,10 +1,6 @@
 // web/js/config.js
 const GKS_CONFIG = {
-  "anchoArea": 1000,
-  "altoArea": 500,
-  "junta": 2,
-  "tolerancia": 1,
-  "tamanosBloque": [300, 400, 500],
-  "offsetMataJunta": 150,
-  "altoBloque": 98
+  "tolerancia": 1, // Tolerancia máxima permitida al final de la fila (1 mm)
+  "offsetMataJunta": 150 // Desplazamiento de la junta entre filas (150 mm)
+  // Los demás valores (anchoArea, tamanosBloque, junta) se leen del HTML
 };
