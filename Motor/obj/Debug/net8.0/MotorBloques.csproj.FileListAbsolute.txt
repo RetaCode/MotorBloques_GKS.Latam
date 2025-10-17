@@ -10,3 +10,15 @@ C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\Motor\obj\Debug\net8.0
 C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\Motor\obj\Debug\net8.0\MotorBloques.pdb
 C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\Motor\obj\Debug\net8.0\ref\MotorBloques.dll
 C:\Users\Esteban Retana\Desktop\MotorBloques\MotorBloques\Motor\obj\Debug\net8.0\MotorBloques.sourcelink.json
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\bin\Debug\net8.0\MotorBloques.deps.json
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\bin\Debug\net8.0\MotorBloques.dll
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\bin\Debug\net8.0\MotorBloques.pdb
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\obj\Debug\net8.0\MotorBloques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\obj\Debug\net8.0\MotorBloques.AssemblyInfoInputs.cache
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\obj\Debug\net8.0\MotorBloques.AssemblyInfo.cs
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\obj\Debug\net8.0\MotorBloques.csproj.CoreCompileInputs.cache
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\obj\Debug\net8.0\MotorBloques.sourcelink.json
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\obj\Debug\net8.0\MotorBloques.dll
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\obj\Debug\net8.0\refint\MotorBloques.dll
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\obj\Debug\net8.0\MotorBloques.pdb
+C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\Motor\obj\Debug\net8.0\ref\MotorBloques.dll

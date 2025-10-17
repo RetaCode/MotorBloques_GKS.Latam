@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>GKS MotorBloques</Name>
+    
+    <Assembly>C:\Users\erene\OneDrive\Documentos\MOTOR BLOQUES\MotorBloques_GKS.Latam\revit\GKS.RevitAddin\bin\Debug\net8.0</Assembly>
+    
+    <FullClassName>MotorBloquesCommand</FullClassName>
+    
+    <Text>Generar Bloques GKS</Text>
+    
+    <Description>Genera la disposición de bloques estructurales aplicando las reglas de GKS (No-Corte, Mata-Junta).</Description>
+    
+    <VendorId>GKS</VendorId>
+  </AddIn>
+</RevitAddIns>

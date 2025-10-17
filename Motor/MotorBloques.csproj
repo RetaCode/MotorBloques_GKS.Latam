@@ -7,6 +7,5 @@
   <ItemGroup>
     <Compile Include="..\Models\Bloque.cs" />
     <Compile Include="..\Models\Configuracion.cs" />
-    <Compile Include="..\Models\Resultado.cs" />
   </ItemGroup>
 </Project>
